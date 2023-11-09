@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841453124417",
+    "project_id": "erpadmin-c6704",
+    "storage_bucket": "erpadmin-c6704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841453124417:android:ac27d22bad7dd6598b7fc0",
+        "android_client_info": {
+          "package_name": "com.example.erp_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV4dUyNNJuXibZmETTDiRlZpUaeseKxw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
